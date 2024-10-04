@@ -17,3 +17,8 @@ static void Main(string[] args)
   Console.WriteLine("Hello, World!");
 }
 ```
+
+| оценка | поведение|
+| ------------- | ------------- |
+| 4             |     хорошо  |
+| 5             |     отлично  |
