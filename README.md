@@ -1,9 +1,10 @@
 # pr06
-##   👋 HELLO 👋
-https://www.google.ru/imgres?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1317323736%2Fru%2F%25D1%2584%25D0%25BE%25D1%2582%25D0%25BE%2F%25D0%25B2%25D0%25B8%25D0%25B4-%25D0%25BD%25D0%25B0-%25D0%25BD%25D0%25B5%25D0%25B1%25D0%25BE-%25D0%25BD%25D0%25B0%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F-%25D0%25B4%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B2%25D1%258C%25D0%25B5%25D0%25B2.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3D93KAEcJLi6BDbDLjRCZOFhC-XPfCY0BqqMvu1WzywPo%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fru%2F%25D1%2584%25D0%25BE%25D1%2582%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D1%2584%25D0%25B8%25D0%25B8%2F%25D0%25BF%25D1%2580%25D0%25B8%25D1%2580%25D0%25BE%25D0%25B4%25D0%25B0&docid=KhOGROnDcos2HM&tbnid=EE4aovnciYd7tM&vet=12ahUKEwjT2enXrfSIAxViCRAIHYvIElcQM3oECEkQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwjT2enXrfSIAxViCRAIHYvIElcQM3oECEkQAA
+# ПРОЕКТ НА ТЕМУ ЛЕС 
 
-## информация о лесе!
 
+## информация проекта о лесе!
+
+этот проект представляет  пример изучения леса. Животных и растений в нем.
 
 ### Цели проекта
 
